@@ -1,6 +1,6 @@
 {
-	"name": "fieldset",
-	"version": "4.1.0",
+	"name": "fields-cli",
+	"version": "0.0.1",
 	"description": "Create fieldset in the terminal",
 	"license": "MIT",
 	"repository": "horosgrisa/fieldset",
